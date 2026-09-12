@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+#### Hello, I am Josephine, I would like to be a nurse. 
 <!--
 **Josephine-AK/Josephine-AK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
